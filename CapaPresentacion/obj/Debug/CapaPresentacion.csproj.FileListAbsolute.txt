@@ -1,0 +1,192 @@
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\Victor\source\repos\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\DPFPDevNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\DPFPEngNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\DPFPShrNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\DPFPVerNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.CapturaHuella.resources
+C:\Users\Victor\Desktop\proyecto control asistencia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.CapturarHuella.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\DPFPDevNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\DPFPEngNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\DPFPShrNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\DPFPVerNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.CapturaHuella.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.CapturarHuella.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\DPFPDevNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\DPFPEngNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\DPFPShrNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\DPFPVerNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.CapturaHuella.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.CapturarHuella.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.frmRol.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.frmEstado.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.frmAsistencia.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistrarPO.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.frmEstadoPO.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleAsistencia.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetallePO.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.frmAcompaniamiento.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\DPFPDevNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\DPFPEngNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\DPFPShrNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\DPFPVerNET.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.CapturaHuella.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.CapturarHuella.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleAsistencia.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetallePO.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.frmRol.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.frmEstadoPO.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistrarPO.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.frmEstado.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.frmAcompaniamiento.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.frmAsistencia.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.VerificarHuella.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.CaptureForm.resources
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config

@@ -1,0 +1,18 @@
+C:\Users\Victor\source\repos\SistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Victor\source\repos\SistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Victor\source\repos\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Victor\source\repos\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaEntidad\obj\Debug\CapaEntidad.pdb
