@@ -75,6 +75,7 @@ namespace CapaPresentacion
                         {
 
                             string mensaje = string.Empty;
+                            bool pictureBox1 = false;
 
                             Asistencia objAsistencia = new Asistencia()
                             {
@@ -88,23 +89,29 @@ namespace CapaPresentacion
                             if (idUsuarioGenerado == 0)
                             {
                                 MakeReport("Ingreso Registrado Usuario: " + emp.NombreCompleto + " " + emp.Documento);
+                                BtnShowImage_Click(null, EventArgs.Empty, idUsuarioGenerado);
+
                             }
                             else if (idUsuarioGenerado == 1)
                             {
                                 /*The fingerprint was VERIFIED*/
                                 MakeReport("Salida Registrada Usuario: " + emp.NombreCompleto + " " + emp.Documento);
+                                BtnShowImage_Click(null, EventArgs.Empty, idUsuarioGenerado);
                             }
                             else if (idUsuarioGenerado == -1)
                             {
                                 MakeReport("Usuario " + emp.NombreCompleto + " ya registro su salida");
+                                BtnShowImage_Click(null, EventArgs.Empty, idUsuarioGenerado);
                             }
                             else if (idUsuarioGenerado == -2)
                             {
                                 MakeReport("Usuario " + emp.NombreCompleto + " ya registro su ingreso");
+                                BtnShowImage_Click(null, EventArgs.Empty, idUsuarioGenerado);
                             }
                             else if (idUsuarioGenerado == -3)
                             {
                                 MakeReport("Usuario no registro su Huella");
+                                BtnShowImage_Click(null, EventArgs.Empty, idUsuarioGenerado);
                             }
                             frmAsistencia objAsis = new frmAsistencia();
 
@@ -129,6 +136,7 @@ namespace CapaPresentacion
                 if(!validacion)
                 {
                     MakeReport("USUARIO NO REGISTRADO");
+                    BtnShowImage_Click(null, EventArgs.Empty, 5);
                 }
 
 
@@ -139,8 +147,62 @@ namespace CapaPresentacion
         public VerificarHuella()
         {
             InitializeComponent();
+
+            /*PictureBox pictureBox1 = new PictureBox();
+            pictureBox1.Image = Image.FromFile("C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png");
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.Dock = DockStyle.Fill; // Ocupa todo el formulario
+            this.Controls.Add(pictureBox1);
+            */
+
+
+
+            
+
         }
 
+        
+        private void BtnShowImage_Click(object sender, EventArgs e, int idUsuarioGenerado)
+        {
+            string imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
+            string soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\Ingreso.wav";
+            switch (idUsuarioGenerado)
+            {
+                case 0:
+                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
+                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\Ingreso.wav";
+                    break;
+                case 1:
+                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
+                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\Salida.wav";
+                    break;
+                case -1:
+                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
+                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\YaRegistro.wav";
+                    break;
+                case -2:
+                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
+                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\YaRegistro.wav";
+                    break;
+                case -3:
+                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
+                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\NoRegistrado.wav"; 
+                    break;
+                case 5:
+                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
+                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\NoRegistrado.wav";
+                    break;
+                default:
+                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
+                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\Ingreso.wav";
+                    break;
+            }
+            
+            // Abre el formulario emergente con la imagen
+            ImagePopupForm popup = new ImagePopupForm(imagePath, soundPath);
+            popup.ShowDialog(); // Modal (bloquea la ventana principal)
+                                // O usa popup.Show(); para no modal
+        }
         private void VerificarHuella_Load(object sender, EventArgs e)
         {
 

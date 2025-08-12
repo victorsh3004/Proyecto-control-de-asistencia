@@ -184,6 +184,12 @@
     <Compile Include="frmAsistencia.Designer.cs">
       <DependentUpon>frmAsistencia.cs</DependentUpon>
     </Compile>
+    <Compile Include="ImagePopupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImagePopupForm.Designer.cs">
+      <DependentUpon>ImagePopupForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Inicio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -244,6 +250,9 @@
     <EmbeddedResource Include="frmAsistencia.resx">
       <DependentUpon>frmAsistencia.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ImagePopupForm.resx">
+      <DependentUpon>ImagePopupForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Inicio.resx">
       <DependentUpon>Inicio.cs</DependentUpon>
     </EmbeddedResource>
@@ -294,6 +303,7 @@
     <None Include="Resources\Delete.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\checkAsistencia.png" />
     <Content Include="Resources\huella %281%29.png" />
     <Content Include="Resources\indraLogo.png" />
     <None Include="Resources\LogoIndra.png" />

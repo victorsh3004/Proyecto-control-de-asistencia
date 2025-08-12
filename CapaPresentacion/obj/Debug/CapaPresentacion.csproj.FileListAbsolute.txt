@@ -190,3 +190,4 @@ C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versi
 C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
 C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.ImagePopupForm.resources
