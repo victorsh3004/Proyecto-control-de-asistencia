@@ -65,61 +65,65 @@ namespace CapaPresentacion
 
                 foreach (Usuario emp in listaUsuario)
                 {
-                    
-                    stream = new MemoryStream(emp.Huella);
-                    template = new DPFP.Template(stream);
+                    if (emp.Huella != null) {
+                        stream = new MemoryStream(emp.Huella);
+                        template = new DPFP.Template(stream);
 
-                    Verificator.Verify(features, template, ref result);
-                    UpdateStatus(result.FARAchieved);
-                    if (result.Verified)
-                    {
-                        
-                        string mensaje = string.Empty;
-
-                        Asistencia objAsistencia = new Asistencia()
+                        Verificator.Verify(features, template, ref result);
+                        UpdateStatus(result.FARAchieved);
+                        if (result.Verified)
                         {
-                            IdUsuario = Convert.ToInt32(emp.IdUsuario),
-                            Documento = emp.Documento,
-                            NombreCompleto = emp.NombreCompleto,
-                        };
 
-                        int idUsuarioGenerado = new CN_Asistencia().RegistrarAsistencia(objAsistencia, out mensaje);
+                            string mensaje = string.Empty;
 
-                        if (idUsuarioGenerado == 0)
-                        {
-                            MakeReport("The fingerprint was VERIFIED Registrado Ingreso. " + emp.Documento + " " + emp.NombreCompleto);
+                            Asistencia objAsistencia = new Asistencia()
+                            {
+                                IdUsuario = Convert.ToInt32(emp.IdUsuario),
+                                Documento = emp.Documento,
+                                NombreCompleto = emp.NombreCompleto,
+                            };
+
+                            int idUsuarioGenerado = new CN_Asistencia().RegistrarAsistencia(objAsistencia, out mensaje);
+
+                            if (idUsuarioGenerado == 0)
+                            {
+                                MakeReport("Ingreso Registrado Usuario: " + emp.NombreCompleto + " " + emp.Documento);
+                            }
+                            else if (idUsuarioGenerado == 1)
+                            {
+                                /*The fingerprint was VERIFIED*/
+                                MakeReport("Salida Registrada Usuario: " + emp.NombreCompleto + " " + emp.Documento);
+                            }
+                            else if (idUsuarioGenerado == -1)
+                            {
+                                MakeReport("Usuario " + emp.NombreCompleto + " ya registro su salida");
+                            }
+                            else if (idUsuarioGenerado == -2)
+                            {
+                                MakeReport("Usuario " + emp.NombreCompleto + " ya registro su ingreso");
+                            }
+                            else if (idUsuarioGenerado == -3)
+                            {
+                                MakeReport("Usuario no registro su Huella");
+                            }
+                            frmAsistencia objAsis = new frmAsistencia();
+
+                            objAsis.LimpiarTablaAsistencia();
+                            objAsis.ListarTablaAsistencia();
+
+                            validacion = true;
+                            //form.Show();
+                            //this.Hide();
+
+                            //form.FormClosing += frm_closing;
+                            break;
                         }
-                        else if (idUsuarioGenerado == 1)
-                        {
-                            MakeReport("The fingerprint was VERIFIED Salida Registrada. " + emp.Documento + " " + emp.NombreCompleto);
-                        }
-                        else if (idUsuarioGenerado == -1)
-                        {
-                            MakeReport("Usuario "+ emp.NombreCompleto + " ya registro su salida");
-                        }
-                        else if (idUsuarioGenerado == -2)
-                        {
-                            MakeReport("Usuario " + emp.NombreCompleto + " ya registro su ingreso");
-                        }
-                        else if (idUsuarioGenerado == -3)
-                        {
-                            MakeReport("Usuario no registro su Huella");
-                        }
-                        frmAsistencia objAsis = new frmAsistencia();
-                        
-                        objAsis.LimpiarTablaAsistencia();
-                        objAsis.ListarTablaAsistencia();
+                        stream.Dispose();
 
-                        validacion = true;
-                        //form.Show();
-                        //this.Hide();
-
-                        //form.FormClosing += frm_closing;
-                        break;
+                        //stream.SetLength(0); // Borra los datos
+                        //stream.Capacity = 0; // Reduce la capacidad a cero
                     }
-                    stream.Dispose();
-                    //stream.SetLength(0); // Borra los datos
-                    //stream.Capacity = 0; // Reduce la capacidad a cero
+
 
                 }
                 if(!validacion)

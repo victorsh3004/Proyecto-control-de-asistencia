@@ -280,7 +280,7 @@ namespace CapaPresentacion
                 //btnAgregar.Enabled = (Template != null);
                 if (Template != null)
                 {
-                    MessageBox.Show("HolaThe fingerprint template is ready for fingerprint verification.", "Fingerprint Enrollment");
+                    MessageBox.Show("Hola la huella fue capturada correctamente The fingerprint template is ready for fingerprint verification.", "Fingerprint Enrollment");
                     //txtHuella.Text = "Huella capturada correctamente";
                 }
                 else

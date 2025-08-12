@@ -46,7 +46,7 @@ namespace CapaPresentacion
 
 
 
-        private void btnHuella_Click(object sender, EventArgs e)
+        private void btnHuella_Click_1(object sender, EventArgs e)
         {
             VerificarHuella verificar = new VerificarHuella();
             verificar.ShowDialog();
@@ -104,7 +104,7 @@ namespace CapaPresentacion
                 //btnAgregar.Enabled = (Template != null);
                 if (Template != null)
                 {
-                    MessageBox.Show("HolaThe fingerprint template is ready for fingerprint verification.", "Fingerprint Enrollment");
+                    MessageBox.Show("Hola la Huella fue capturada :) The fingerprint template is ready for fingerprint verification.", "Fingerprint Enrollment");
                     //txtHuella.Text = "Huella capturada correctamente";
                 }
                 else
@@ -114,7 +114,7 @@ namespace CapaPresentacion
             }));
         }
 
-        private void btnHuella_Click_1(object sender, EventArgs e)
+        private void btnHuella_Click_2(object sender, EventArgs e)
         {
             string mensaje = string.Empty;
 
