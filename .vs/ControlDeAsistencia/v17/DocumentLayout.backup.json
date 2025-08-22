@@ -3,6 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CapaPresentacion||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\capapresentacion\\captureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\captureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\capapresentacion\\captureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\captureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\victor\\desktop\\proyecto control asistencia - copia\\sistemacontrol\\versiones\\asistencia\\capapresentacion\\verificarhuella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\verificarhuella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +22,20 @@
       "RelativeMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\imagepopupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\capapresentacion\\imagepopupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\imagepopupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\capapresentacion\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\capapresentacion\\frmasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\capapresentacion\\frmasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\capapresentacion\\frmasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\capapresentacion\\imagepopupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\imagepopupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\capapresentacion\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +48,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0B7788-E814-4716-A775-CF124D24484E}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\victor\\desktop\\proyecto control asistencia - copia\\sistemacontrol\\versiones\\asistencia\\capapresentacion\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,12 +69,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CapaPresentacion",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\CapaPresentacion.csproj",
+              "RelativeDocumentMoniker": "CapaPresentacion\\CapaPresentacion.csproj",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\CapaPresentacion.csproj",
+              "RelativeToolTip": "CapaPresentacion\\CapaPresentacion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-22T17:40:35.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "VerificarHuella.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\VerificarHuella.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\VerificarHuella.cs",
               "ToolTip": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\VerificarHuella.cs",
               "RelativeToolTip": "CapaPresentacion\\VerificarHuella.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAALUAAAAAAAAAAAAAAKcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T15:44:10.459Z",
               "EditorCaption": ""
@@ -71,19 +97,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaptureForm.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\CaptureForm.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\CaptureForm.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\CaptureForm.cs",
+              "RelativeToolTip": "CapaPresentacion\\CaptureForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:53:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "frmAsistencia.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\frmAsistencia.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmAsistencia.cs",
               "ToolTip": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\frmAsistencia.cs",
               "RelativeToolTip": "CapaPresentacion\\frmAsistencia.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAwwDUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T01:14:06.879Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ImagePopupForm.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\ImagePopupForm.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ImagePopupForm.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\ImagePopupForm.cs",
+              "RelativeToolTip": "CapaPresentacion\\ImagePopupForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:36:14.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CaptureForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\CaptureForm.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\CaptureForm.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\CaptureForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\CaptureForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:43:59.773Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "frmAsistencia.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\frmAsistencia.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmAsistencia.cs",
@@ -94,19 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImagePopupForm.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\ImagePopupForm.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\ImagePopupForm.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\ImagePopupForm.cs",
-              "RelativeToolTip": "CapaPresentacion\\ImagePopupForm.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAcwB0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T15:36:14.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ImagePopupForm.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\ImagePopupForm.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\ImagePopupForm.cs",
@@ -117,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "frmReportes.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\frmReportes.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmReportes.cs",
@@ -128,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Inicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Inicio.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
@@ -139,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "frmUsuarios.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\frmUsuarios.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmUsuarios.cs",
@@ -151,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "frmUsuarios.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\frmUsuarios.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmUsuarios.cs",

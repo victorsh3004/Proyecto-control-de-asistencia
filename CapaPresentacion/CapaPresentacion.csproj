@@ -7,7 +7,7 @@
     <ProjectGuid>{5C0B7788-E814-4716-A775-CF124D24484E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>CapaPresentacion</RootNamespace>
-    <AssemblyName>CapaPresentacion</AssemblyName>
+    <AssemblyName>attendance control project</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -31,6 +31,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1-05b1ada4.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ClosedXML, Version=0.105.0.0, Culture=neutral, PublicKeyToken=fd1eb21b62ae805b, processorArchitecture=MSIL">
@@ -303,9 +306,14 @@
     <None Include="Resources\Delete.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="1-05b1ada4.ico" />
     <Content Include="Resources\checkAsistencia.png" />
     <Content Include="Resources\huella %281%29.png" />
     <Content Include="Resources\indraLogo.png" />
+    <Content Include="Resources\Ingreso.wav" />
+    <Content Include="Resources\NoRegistrado.wav" />
+    <Content Include="Resources\Salida.wav" />
+    <Content Include="Resources\YaRegistro.wav" />
     <None Include="Resources\LogoIndra.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

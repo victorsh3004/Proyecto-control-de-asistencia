@@ -92,19 +92,19 @@ namespace CapaPresentacion
 
 		public void OnComplete(object Capture, string ReaderSerialNumber, DPFP.Sample Sample)
 		{
-			MakeReport("La muestra ha sido capturada");
+			/*MakeReport("La muestra ha sido capturada");*/
 			SetPrompt("Escanea tu misma huella otra vez");
 			Process(Sample);
 		}
 
 		public void OnFingerGone(object Capture, string ReaderSerialNumber)
 		{
-			MakeReport("La huella fue removida del lector");
+			/*MakeReport("La huella fue removida del lector");*/
 		}
 
 		public void OnFingerTouch(object Capture, string ReaderSerialNumber)
 		{
-			MakeReport("El lector fue tocado");
+			/*MakeReport("El lector fue tocado");*/
 		}
 
 		public void OnReaderConnect(object Capture, string ReaderSerialNumber)

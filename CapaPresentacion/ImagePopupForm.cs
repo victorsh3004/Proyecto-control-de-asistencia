@@ -23,7 +23,7 @@ namespace CapaPresentacion
 
             // PictureBox para la imagen
             PictureBox pictureBox = new PictureBox();
-            pictureBox.Image = Image.FromFile("C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png");
+            pictureBox.Image = Image.FromFile(imagePath);
             pictureBox.SizeMode = PictureBoxSizeMode.Zoom; // Ajusta la imagen
             pictureBox.Dock = DockStyle.Fill; // Ocupa todo el espacio
 

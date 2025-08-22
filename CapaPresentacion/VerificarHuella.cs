@@ -164,40 +164,45 @@ namespace CapaPresentacion
         
         private void BtnShowImage_Click(object sender, EventArgs e, int idUsuarioGenerado)
         {
-            string imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
-            string soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\Ingreso.wav";
+                       
+            string imagePath = "";
+            string soundPath = "";
+
+            // string directorioEjecucion = Application.StartupPath;
+            //MessageBox.Show(".."+directorioEjecucion);
+
             switch (idUsuarioGenerado)
             {
                 case 0:
-                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
-                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\Ingreso.wav";
+                    imagePath = "../../Resources/checkAsistencia.png";
+                    soundPath = "../../Resources/Ingreso.wav";
                     break;
                 case 1:
-                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
-                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\Salida.wav";
+                    imagePath = "../../Resources/checkAsistencia.png";
+                    soundPath = "../../Resources/Salida.wav";
                     break;
                 case -1:
-                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
-                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\YaRegistro.wav";
+                    imagePath = "../../Resources/NoRegistro.png";
+                    soundPath = "../../Resources/YaRegistro.wav";
                     break;
                 case -2:
-                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
-                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\YaRegistro.wav";
+                    imagePath = "../../Resources/NoRegistro.png";
+                    soundPath = "../../Resources/YaRegistro.wav";
                     break;
                 case -3:
-                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
-                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\NoRegistrado.wav"; 
+                    imagePath = "../../Resources/NoRegistro.png";
+                    soundPath = "../../Resources/NoRegistrado.wav"; 
                     break;
                 case 5:
-                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
-                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\NoRegistrado.wav";
+                    imagePath = "../../Resources/NoRegistro.png";
+                    soundPath = "../../Resources/NoRegistrado.wav";
                     break;
                 default:
-                    imagePath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\checkAsistencia.png";
-                    soundPath = "C:\\Users\\Victor\\Desktop\\proyecto control asistencia - copia\\SistemaControl\\versiones\\Asistencia\\CapaPresentacion\\Resources\\Ingreso.wav";
+                    imagePath = "../../Resources/NoRegistro.png";
+                    soundPath = "../../Resources/NoRegistrado.wav";
                     break;
             }
-            
+
             // Abre el formulario emergente con la imagen
             ImagePopupForm popup = new ImagePopupForm(imagePath, soundPath);
             popup.ShowDialog(); // Modal (bloquea la ventana principal)
