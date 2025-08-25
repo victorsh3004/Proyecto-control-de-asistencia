@@ -128,10 +128,6 @@ C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaP
 C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\CapaPresentacion\obj\Debug\CapaPresentacion.frmAcompaniamiento.resources
 C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaEntidad.dll
 C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaNegocio.dll
-C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\DPFPDevNET.dll
-C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\DPFPEngNET.dll
-C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\DPFPShrNET.dll
-C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\DPFPVerNET.dll
 C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
 C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaDatos.dll
 C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\CapaEntidad.pdb
@@ -185,9 +181,9 @@ C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versi
 C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
 C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\CapaPresentacion.ImagePopupForm.resources
-C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\ControlAsistencia.exe.config
-C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\ControlAsistencia.exe
-C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\ControlAsistencia.pdb
-C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\ControlAsistencia.exe.config
-C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\ControlAsistencia.exe
-C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\ControlAsistencia.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\attendance control project.exe.config
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\attendance control project.exe
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\bin\Debug\attendance control project.pdb
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\attendance control project.exe.config
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\attendance control project.exe
+C:\Users\Victor\Desktop\proyecto control asistencia - copia\SistemaControl\versiones\Asistencia\CapaPresentacion\obj\Debug\attendance control project.pdb
